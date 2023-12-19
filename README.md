@@ -1,1 +1,3 @@
-# Lab2_Sistemas_Operativos_FaMAF_2023
+# Laboratorio 2: Semáforos en XV6
+
+* [consigna.md](consigna.md) -> Archivo con las consignas
